@@ -1,6 +1,6 @@
 # <h1>is_about_tech</h1>
 
-<h3>blog about technology topics</h3> <div style="display: inline_block"><br> <img align="center" heigth="50"  width="50" alt="Tech Icon" src="https://img.icons8.com/dusk/344/motherboard.png" /></div>
+ <div style="display: inline_block"><br><h3>blog about technology topics</h3><img align="center" heigth="50"  width="50" alt="Tech Icon" src="https://img.icons8.com/dusk/344/motherboard.png" /></div>
 
 <h2>Project deployed on: https://heroic-cheesecake-60a4a0.netlify.app/#</h2>
 
