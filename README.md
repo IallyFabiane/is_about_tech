@@ -1,5 +1,7 @@
 # <h1>is_about_tech</h1>
 
+<h3>blog about technology topics</h3> <div style="display: inline_block"><br> <img align="center" alt="Tech Icon" height="30" width="40" src="https://img.icons8.com/external-filled-outline-icons-maxicons/344/external-tech-future-of-technology-filled-outline-icons-maxicons.png" /></div>
+
 <h2>Project deployed on: https://heroic-cheesecake-60a4a0.netlify.app/#</h2>
 
 <div style="display: inline_block"><br>
